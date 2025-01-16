@@ -100,7 +100,7 @@ main{
     width: 950px;
 }
 #banner{
-    background-image: url('img/banner.JPG');
+    background-image: url('img/banner.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 150px;
